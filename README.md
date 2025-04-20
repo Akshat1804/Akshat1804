@@ -1,3 +1,6 @@
+<img src="Group 1.png">
+
+
 <h1 align="left">Hello World!👋 , I'm Akshat , An Indian Full Stack Web Developer:</h1>
 
 ###
